@@ -1,4 +1,4 @@
-#Travis Build:
+# Build:
 [![Inline docs](http://inch-ci.org/github/yeshvantbhavnasi/GroceryScanner.svg?branch=master)](https://travis-ci.org/yeshvantbhavnasi/GroceryScanner)
 
 # GroceryScanner
